@@ -6,6 +6,8 @@ production_static/
 templates/
 uploads/
 
+*.sqlite3
+
 # Django #
 *.log
 *.pot
